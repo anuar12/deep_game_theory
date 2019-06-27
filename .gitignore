@@ -1,0 +1,9 @@
+*.pyc
+.ipynb_checkpoints
+.vscode
+*.swp
+out
+runner.sl
+*.html
+*.png
+*.npy
